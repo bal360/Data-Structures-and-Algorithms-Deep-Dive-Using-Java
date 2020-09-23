@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="232b3eac-ee2b-4d3d-b19e-ec08a5c795fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1htZ0Kbfb4CRUBZi7H1U7K61Vbn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.blakelong" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.blakelong.Main" />
+      <module name="DoublyLinkedLists" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="232b3eac-ee2b-4d3d-b19e-ec08a5c795fb" name="Default Changelist" comment="" />
+      <created>1600832124589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600832124589</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1019" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1600832376170">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1019" y="242" key="#com.intellij.ide.util.MemberChooser/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1600832376170" />
+    <state width="1339" height="290" key="GridCell.Tab.0.bottom" timestamp="1600879697429">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1339" height="290" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1600879697429" />
+    <state width="1339" height="290" key="GridCell.Tab.0.center" timestamp="1600879697428">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1339" height="290" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1600879697428" />
+    <state width="1339" height="290" key="GridCell.Tab.0.left" timestamp="1600879697427">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1339" height="290" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1600879697427" />
+    <state width="1339" height="290" key="GridCell.Tab.0.right" timestamp="1600879697428">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1339" height="290" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1600879697428" />
+  </component>
+</project>
