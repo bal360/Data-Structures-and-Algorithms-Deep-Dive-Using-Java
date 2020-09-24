@@ -96,7 +96,6 @@ public class EmployeeDoublyLinkedList {
                 size++;
                 return true;
             } else {
-                System.out.println("inside else");
                 temp = temp.getNext();
             }
         }

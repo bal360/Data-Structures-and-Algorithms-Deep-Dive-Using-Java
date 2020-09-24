@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1htZ0Kbfb4CRUBZi7H1U7K61Vbn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -69,10 +72,10 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1167" height="290" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1600914899740" />
-    <state x="957" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1600915351155">
+    <state x="957" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1600915542185">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="957" y="384" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1600915351155" />
+    <state x="957" y="384" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1600915542185" />
     <state x="694" y="174" key="new project wizard" timestamp="1600901390548">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
